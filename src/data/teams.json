@@ -1,0 +1,9 @@
+{
+  "tournament": "Festival Universitario de Balonmano 2026",
+  "teams": [
+    { "id": "tec", "name": "TEC", "image": "tec.png" },
+    { "id": "ucr-rf", "name": "UCR RF", "image": "ucr.png" },
+    { "id": "ucr-atlantico", "name": "UCR Atlántico", "image": "ucr.png" },
+    { "id": "una", "name": "UNA", "image": "una.png" }
+  ]
+}
